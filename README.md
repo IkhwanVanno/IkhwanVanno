@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ikhwan Vanno!
 
-<!--
-**IkhwanVanno/IkhwanVanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a vocational high school student majoring in **Software Engineering (RPL)** from Indonesia.
 
-Here are some ideas to get you started:
+💡 I'm passionate about learning and creating:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Web Development** (HTML, CSS, JavaScript, PHP, Laravel, Silverstripe)
+- 📱 **Mobile & Desktop Applications** (Kotlin, Flutter, Android Studio, C#, .NET)
+- 🎮 **Game Development** (Unity, C#)
+
+🚀 I'm currently exploring:
+- Laravel & RESTful API
+- Android Kotlin + Retrofit
+- Android & IOS Dart + Flutter
+- Silverstripe CMS
+- SQL & Database Management
+
+🛠️ Tools & Technologies I'm familiar with:
+- Visual Studio, VS Code, Android Studio, Unity
+- MySQL, XAMPP, SQL Server Management
+- Tailwind CSS, Bootstrap
+- Git & GitHub
+
+🌱 Always eager to learn new skills and work on real-world projects.  
+📫 Reach me on:  
+- Email: ikhwanvanno@gmail.com  
+- GitHub: [@IkhwanVanno](https://github.com/IkhwanVanno)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile! 😊
