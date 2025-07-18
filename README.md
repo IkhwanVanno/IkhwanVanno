@@ -9,6 +9,7 @@
 - 🎮 **Game Development** (Unity, C#)
 
 🚀 I'm currently exploring:
+
 - Laravel & RESTful API
 - Android Kotlin + Retrofit
 - Android & IOS Dart + Flutter
@@ -16,14 +17,16 @@
 - SQL & Database Management
 
 🛠️ Tools & Technologies I'm familiar with:
+
 - Visual Studio, VS Code, Android Studio, Unity
-- MySQL, XAMPP, SQL Server Management
+- MySQL, Laragon, SQL Server Management
 - Tailwind CSS, Bootstrap
 - Git & GitHub
 
 🌱 Always eager to learn new skills and work on real-world projects.  
-📫 Reach me on:  
-- Email: ikhwanvanno@gmail.com  
+📫 Reach me on:
+
+- Email: ikhwanvanno750@gmail.com
 - GitHub: [@IkhwanVanno](https://github.com/IkhwanVanno)
 
 ---
