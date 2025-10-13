@@ -6,7 +6,7 @@
 
 - 🌐 **Web Development** (HTML, CSS, JavaScript, PHP, Laravel, Silverstripe)
 - 📱 **Mobile & Desktop Applications** (Kotlin, Flutter, Android Studio, C#, .NET)
-- 🎮 **Game Development** (Unity, C#)
+- 🎮 **Game Development** (Unity, C#, Construct, Javascript)
 
 🚀 I'm currently exploring:
 
