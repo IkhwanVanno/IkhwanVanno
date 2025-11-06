@@ -13,6 +13,7 @@
 - Laravel & RESTful API
 - Android Kotlin + Retrofit
 - Android & IOS Dart + Flutter
+- Dekstop App C#
 - Silverstripe CMS
 - SQL & Database Management
 
